@@ -1,11 +1,8 @@
-# UNDER PROGRESS #
-
+# Jeremy #
 
 # 💫 About Me:
 <br>🔭 I’m currently working on CoreStudio</br>
-<br>👯 I’m looking to collaborate</br>
-<br>🤝 I’m looking for help with Python</br> 
-<br>🌱 I’m currently learning Python</br> 
+<br>👯 I’m looking to collaborate</br> 
 <br>⚡ Fun fact everyday I learn something new</br> 
 
 
@@ -16,7 +13,6 @@
 ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
@@ -26,7 +22,6 @@
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)  
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
 ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=for-the-badge&logo=supabase&logoColor=white)
-![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=imJeremyyy&theme=transparent&hide_border=false&include_all_commits=false&count_private=true)<br/>
@@ -36,9 +31,5 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=imJeremyyy&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=imJeremyyy&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=ra)
